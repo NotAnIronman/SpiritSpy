@@ -1,0 +1,12 @@
+{
+  "name": "Spirit Spy",
+  "version": "2.1.0",
+  "contactEmailAddress": "TheMonthOfAugustus@gmail.com",
+  "requiredDependencies": {},
+  "optionalDependencies": {},
+  "requiredPermissions": [],
+  "optionalPermissions": [],
+  "urls": {},
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": false
+}
